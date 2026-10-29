@@ -1,0 +1,6 @@
+
+Uso:
+python "import csv.py" "archivo_entrada.csv" "archivo_salida.csv"
+
+Ejemplo:
+python "import csv.py" "webinar0705.csv" "salida.csv"
